@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ZenotiRecyclerViewSample</string>
+    <string-array name="list">
+        <item>Zenoti One</item>
+        <item>Zenoti Two</item>
+        <item>Zenoti Three</item>
+        <item>Zenoti Four</item>
+        <item>Zenoti Five</item>
+    </string-array>
+
+    <string-array name="updated_list">
+        <item>Prathap One</item>
+        <item>Prathap Two</item>
+        <item>Prathap Three</item>
+        <item>Prathap Four</item>
+        <item>Prathap Five</item>
+    </string-array>
+</resources>
